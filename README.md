@@ -30,16 +30,16 @@ Here are some ideas to get you started:
 
    <nav>
        <a href= "https://twitter.com/AJAYRAJ11695" target="_blank">
-          <img src="https://img.icons8.com/stickers/344/twitter.png" margin-right="20px" width="20px" height="20px"/> 
+          <img src="https://img.icons8.com/stickers/344/twitter.png" margin-right="20px" width="30px" height="30px"/> 
        </a>
        <a href="mailto:ajayrajput9554@gmail.com" target="_blank">
-          <img src="https://img.icons8.com/color/344/gmail-new.png" margin-right="20px" width="20px" height="20px"/> 
+          <img src="https://img.icons8.com/color/344/gmail-new.png" margin-right="20px" width="30px" height="30px"/> 
        </a>
-      <a href="https://dev.to/rahulmandyal" target="_blank">
+<!--       <a href="https://dev.to/rahulmandyal" target="_blank">
           <img src="https://img.icons8.com/windows/344/dev.png" margin-right="20px" width="20px" height="20px"/> 
-       </a>
+       </a> -->
        <a href="[https://www.codewars.com/users/Rahulmandyal](https://www.codewars.com/users/ajay11695)" target="_blank">
-          <img src="https://docs.codewars.com/logo.svg" margin-right="20px" width="20px" height="20px"/> 
+          <img src="https://docs.codewars.com/logo.svg" margin-right="20px" width="30px" height="30px"/> 
        </a>
    </nav>
    <br>
