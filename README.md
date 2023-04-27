@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 
 ### :white_medium_small_square: GitHub Stats 📊
   <p>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajay11695", height="270px" width="70.25%"/> 
       <img src="https://github-readme-stats.vercel.app/api?username=ajay11695&show_icons=true&theme=synthwave", height="270px" width="70.25%"/> 
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajay11695&theme=tokyonight" height="270px" width="29.25%"/>
   </p>
